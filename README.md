@@ -45,3 +45,6 @@ Testing ArUco Markers: To test the script, you can generate ArUco markers from t
 Troubleshooting:
 If the camera cannot be accessed, ensure it is properly connected and not being used by another application.
 If you see an empty 3D plot, ensure the ArUco marker is within the camera's view.
+
+https://www.youtube.com/watch?v=uogDPZadyVw (ex. video lang:turkish)
+
